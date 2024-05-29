@@ -8,4 +8,4 @@ tags:
   - 8sem
 ---
 
-[Ссылка на работы возьмого семестра](https://github.com/ShadrinSpock/portfolio-herzen/tree/master/_english/8_sem)
+[Ссылка на работы восьмого семестра](https://github.com/ShadrinSpock/portfolio-herzen/tree/master/_english/8_sem)
