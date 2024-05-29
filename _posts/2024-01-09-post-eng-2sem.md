@@ -1,5 +1,5 @@
 ---
-title: "Работы второго семестра"
+title: "Английский язык. Работы второго семестра."
 excerpt_separator: "<!--more-->"
 categories:
   - Blog
