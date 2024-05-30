@@ -1,11 +1,11 @@
 ---
-title: "Programming. Работы третьего семестра."
+title: "Programming. Работы седьиого семестра."
 excerpt_separator: "<!--more-->"
 categories:
   - Blog
 tags:
   - programming
-  - 3sem
+  - 7sem
 ---
 
 [ЛР1](https://replit.com/@Spockx/programming-07-theme01-lr01)
