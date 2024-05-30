@@ -8,4 +8,4 @@ tags:
   - 2sem
 ---
 
-[Ссылка на работы второго семестра](https://github.com/ShadrinSpock/portfolio-herzen/tree/master/_english/2_sem)
+[Ссылка на работы второго семестра](https://drive.google.com/drive/folders/12Nbk2tvZlESuuNyTnihao22OE21si4uY?usp=sharing)
