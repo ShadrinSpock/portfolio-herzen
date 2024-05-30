@@ -1,5 +1,5 @@
 ---
-title: "Английский язык. Работы пятого семестра."
+title: "English. Работы пятого семестра."
 excerpt_separator: "<!--more-->"
 categories:
   - Blog
